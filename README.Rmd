@@ -24,8 +24,8 @@ The goal of demopkg is to ...
 
 You can install demopkg from [GitHub] (https://github.com) with:
 
-``` {r}
-# devtools::install_github("marianmarchal/demopkg")
+``` {r, eval = FALSE}
+devtools::install_github("marianmarchal/demopkg")
 ```
 
 ## Example

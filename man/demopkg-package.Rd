@@ -8,6 +8,14 @@
 \description{
 The goal of demopkg is to practice making a package.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/marianmarchal/demopkg}
+  \item Report bugs at \url{https://github.com/marianmarchal/demopkg/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Marian Marchal \email{marchal@coli.uni-saarland.de}
 

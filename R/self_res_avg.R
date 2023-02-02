@@ -1,0 +1,19 @@
+#' Averageness of Self-Resembling Faces.
+#'
+#' Averageness judgements of same-sex and other-sex self-resembling faces from DeBruine (2004).
+#'
+#' @format A data frame with 78 rows and 9 variables:
+#' \describe{
+#'   \item{id}{participant unique ID}
+#'   \item{sex}{sex of the participant (male/female)}
+#'   \item{group}{unique group ID}
+#'   \item{m_avg}{number of times out of a possible 6 chose a male composite face as more attractive}
+#'   \item{f_avg}{number of times out of a possible 6 chose a female composite face as more attractive}
+#'   \item{m_self}{number of times out of a possible 6 chose a male self-res face as more attractive}
+#'   \item{f_self}{number of times out of a possible 6 chose a female self-res face as more attractive}
+#'   \item{m_non}{mean number of times the other group members chose that male face as more attractive}
+#'   \item{f_non}{mean number of times the other group members chose that female face as more attractive}
+#' }
+#' @source \url{https://osf.io/3c5s4/}
+"self_res_avg"
+
